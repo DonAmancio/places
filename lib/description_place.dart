@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 
 class DescriptionPlace extends StatelessWidget{
   @override
-  Widget? build(BuildContext context) {
+  Widget build(BuildContext context) {
     final titulo = Container(
       margin: EdgeInsets.only(
         right: 20,
